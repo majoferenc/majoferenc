@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/8Aa34J5wI0gpLRS1pv/giphy.gif" width="230">
 Hi, I'm Marian  👋
 
 I'm full stack developer at @ IBM. Working mainly in backend development with Java EE/Spring Boot projects. I ❤️ to work as frontend developer with Vue.js. On my current project I'm responsible for creating Kubernetes/OpenShift solution for existing system.
